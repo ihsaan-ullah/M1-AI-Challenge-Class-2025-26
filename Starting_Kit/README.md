@@ -2,7 +2,7 @@
 
 ***
 
-Check `README.ipynb` to get started with the startig kit. You can also import `README.ipynb` in [Google Colab](https://colab.research.google.com/). Complete the missing pieces in the notebook or create a new notebook in the way you want.
+Check `README.ipynb` to get started with the starting kit. You can also import `README.ipynb` in [Google Colab](https://colab.research.google.com/). Complete the missing pieces in the notebook or create a new notebook in the way you want.
 
 
 ### Conda
