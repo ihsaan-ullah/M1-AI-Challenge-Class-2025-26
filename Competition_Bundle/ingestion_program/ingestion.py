@@ -83,10 +83,9 @@ class Ingestion:
 
         """
         print("[*] Loading Train data")
-        
+
         # TODO: Load train and/or test data here
 
-       
     def init_submission(self, Model):
         """
         Initialize the submitted model.
